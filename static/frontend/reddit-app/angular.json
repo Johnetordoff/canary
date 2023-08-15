@@ -28,11 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
+              "src/styles.scss"
             ],
-            "scripts": [
-
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -94,11 +92,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
+              "src/styles.scss"
             ],
-            "scripts": [
-              
-            ]
+            "scripts": []
           }
         },
         "lint": {
@@ -127,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reddit-app"
+    }
+  },
+  "defaultProject": "reddit-app",
+  "cli": {
+    "analytics": "322319cd-ff8e-461b-9a0e-274e2604c33b"
+  }
 }
